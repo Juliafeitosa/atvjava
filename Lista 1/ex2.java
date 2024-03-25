@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Ex2 {
 
 
-    public static void somar (String[] args) {
+    public static void main (String[] args) {
         Scanner num = new Scanner(System.in);
 
 
