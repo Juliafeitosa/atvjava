@@ -3,10 +3,10 @@
 //Escreva um algoritmoque encontre o n-ésimo termo de uma progressão aritmética. Exemplo: a1 = 10, n =7, r = 3. Resultado: an = 28
 
 
-public class ProgressaoAritmetica {
+public class Ex14 {
 
 
-    public static int termoN(int a1, int n, int r) {
+    public static int main(int a1, int n, int r) {
  
         return a1 + (n - 1) * r;
     }
