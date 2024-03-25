@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Ex5 {
 
-    public static void variavel (String[] args) {
+    public static void main (String[] args) {
         Scanner num = new Scanner(System.in);
 
        
