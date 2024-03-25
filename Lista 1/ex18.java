@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 public class Ex18 {
-    public static void mediaHarmonica(String[] args) {
+    public static void main (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
