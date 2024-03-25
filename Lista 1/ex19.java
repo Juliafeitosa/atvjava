@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 public class Ex19 {
-    public static void volume(String[] args) {
+    public static void main(String[] args) {
 
 
         Scanner scanner = new Scanner(System.in);
