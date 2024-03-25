@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 public class ex15 {
-    public static void main(String[] args) {
+    public static void formula(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite as coordenadas do ponto P1 (x1 y1): ");
 
