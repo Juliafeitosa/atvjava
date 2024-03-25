@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 public class Ex9 {
-    public static void diferentes(String[] args) {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
