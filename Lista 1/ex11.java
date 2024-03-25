@@ -4,7 +4,7 @@
 import java.util.Scanner;
 
 
-public class ex11 {
+public class Ex11 {
     public static void emordem(String[] args) {
 
 
