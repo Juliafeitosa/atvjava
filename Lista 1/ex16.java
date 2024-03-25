@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 public class Ex16 {
-    public static void media (String[] args) {
+    public static void main (String[] args) {
 
 
         Scanner scanner = new Scanner(System.in);
