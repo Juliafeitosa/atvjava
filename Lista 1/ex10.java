@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 
 public class ex10 {
-    public static void main(String[] args) {
+    public static void case(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
