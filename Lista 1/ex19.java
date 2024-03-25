@@ -5,7 +5,7 @@
 import java.util.Scanner;
 
 
-public class ex19 {
+public class Ex19 {
     public static void volume(String[] args) {
 
 
