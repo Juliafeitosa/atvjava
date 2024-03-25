@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 public class ex8 {
-    public static void main(String[] args) {
+    public static void numeros (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
 
