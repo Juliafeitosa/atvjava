@@ -5,7 +5,7 @@
 import java.util.Scanner;
 
 
-public class ex13 {
+public class Ex13 {
     public static void case(String[] args) {
 
 
