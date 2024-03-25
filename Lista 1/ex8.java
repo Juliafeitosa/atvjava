@@ -4,7 +4,7 @@
 import java.util.Scanner;
 
 
-public class ex8 {
+public class Ex8 {
     public static void numeros (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
