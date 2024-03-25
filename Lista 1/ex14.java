@@ -3,16 +3,22 @@
 //Escreva um algoritmoque encontre o n-ésimo termo de uma progressão aritmética. Exemplo: a1 = 10, n =7, r = 3. Resultado: an = 28
 
 
-public class ex14 {
+public class ProgressaoAritmetica {
+
+
+    public static int termoN(int a1, int n, int r) {
+ 
+        return a1 + (n - 1) * r;
+    }
+
     public static void main(String[] args) {
-        int A1 = 10;
-        int N = 7;
-        int R = 3;
 
+        int primeiroTermo = 3;
+        int numeroTermoDesejado = 5;
+        int razao = 2;
 
-        int An = 1 + (N - 1) * R;
+        int termoDesejado = termoN(primeiroTermo, numeroTermoDesejado, razao);
 
-
-        System.out.println("Resultado: " + An);
+        System.out.println("O " + numeroTermoDesejado + "-ésimo termo da Progressão Aritmética é: " + termoDesejado);
     }
 }
