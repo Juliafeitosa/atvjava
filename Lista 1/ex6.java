@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 
-public class ex6 {
+public class Ex6 {
     public static void celsius (String[] args) {
         Scanner scanner = new Scanner(System.in);
 
