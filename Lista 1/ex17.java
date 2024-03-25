@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 
 public class ex17 {
-    public static void main(String[] args) {
+    public static void mediaPonderada(String[] args) {
 
 
         Scanner scanner = new Scanner(System.in);
