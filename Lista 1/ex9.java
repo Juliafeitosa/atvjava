@@ -5,7 +5,7 @@
 import java.util.Scanner;
 
 
-public class ex9 {
+public class Ex9 {
     public static void diferentes(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
